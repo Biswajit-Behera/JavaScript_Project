@@ -1,7 +1,6 @@
 (function() {
     'use strict';
-  
-    var app = {
+     var app = {
       noteEditor: document.getElementById('note-editor'),
       noteEditorTitle: document.getElementById('note-editor-title'),
       title: document.getElementById('title'),
