@@ -6,3 +6,4 @@
 <br>
 <h2> 2.Stop Watch</h2>
 <img width="740" alt="image" src="https://user-images.githubusercontent.com/86191708/211071464-e190217b-fd52-4c66-8ad3-6154e1c78bcd.png">
+<h2>2.Note Making App</h2>
