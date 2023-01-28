@@ -12,3 +12,4 @@ StopWatch made using HTML, CSS and JavaScript.
 
 # Screenshots
 <img src="https://raw.githubusercontent.com/ishani-1255/StopWatch/main/Screenshot%202022-10-14%20at%207.32.39%20AM.png" alt="Screenshot" width="1280" height=""/>
+
